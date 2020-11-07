@@ -1,4 +1,4 @@
-# SimpleTeminalClcok
+# SimpleTerminalClock
 
 just simple clock
 use like screenshot right top terminal
